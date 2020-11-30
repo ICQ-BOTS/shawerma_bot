@@ -1,0 +1,33 @@
+[main]
+dev = 1
+host=127.0.0.1
+port=0000
+alias=shawarmabot.a.b
+
+[icq_bot]
+token=001.3791447656.0139270725:756484795
+owner=xxxxxxxxx
+poll_time_s=300
+task_timeout_s=3600
+request_timeout_s=7
+task_max_len=1000000000
+trash_chat=683097867@chat.agent
+admins=["748098947", "752661461", "751509498"]
+
+[ctlr]
+host=127.0.0.1
+port=0000
+
+[graphite]
+enable=0
+server=graphite.example.com
+prefix=icqweb
+port=300
+
+[tarantool]
+host=127.0.0.1
+port=3305
+
+[put_faces_service]
+host=127.0.0.1
+port=1516
