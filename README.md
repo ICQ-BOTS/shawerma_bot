@@ -1,14 +1,14 @@
 # [Фэйсер](https://icq.im/face_bot)
 
-<a href="https://icq.im/face_bot"><img src="https://github.com/ICQ-BOTS/shawarma_bot/blob/main/face_bot.png" width="100" height="100"></a>
+<a href="https://icq.im/face_bot"><img src="https://github.com/ICQ-BOTS/shawerma_bot/blob/main/face_bot.png" width="100" height="100"></a>
 
 # Оглавление 
- - [Описание](https://github.com/ICQ-BOTS/shawarma_bot#описание)
- - [Установка](https://github.com/ICQ-BOTS/shawarma_bot#установка)
- - [Скриншоты работы](https://github.com/ICQ-BOTS/shawarma_bot#скриншоты-работы)
+ - [Описание](https://github.com/ICQ-BOTS/shawerma_bot#описание)
+ - [Установка](https://github.com/ICQ-BOTS/shawerma_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/shawerma_bot#скриншоты-работы)
 
 # Описание
-Отправь мне свое фото и я вставлю твое лицо в шаурму!
+Отправь мне свое фото и я вставлю твое лицо в шаурму
 
 # Установка
 
@@ -27,8 +27,8 @@ tarantoolctl start blanket.lua
 
 4. Запуск бота!
 ```bash
-python3 shawarma_bot.py
+python3 shawerma_bot.py
 ```
 
 # Скриншоты работы
-<img src="https://github.com/ICQ-BOTS/shawarma_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/shawerma_bot/blob/main/img/1.png" width="400">
