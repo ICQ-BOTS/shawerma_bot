@@ -31,4 +31,4 @@ python3 shawerma_bot.py
 ```
 
 # Скриншоты работы
-<img src="https://github.com/ICQ-BOTS/shawerma_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/shawerma_bot/blob/main/img/1.png" width="400" align="Скоро будет!">
