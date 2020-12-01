@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 
 2. Запуск space tarantool.
 ```bash
-tarantoolctl start blanket.lua
+tarantoolctl start init.lua
 ```
 > Файл из папки scheme нужно перекинуть в /etc/tarantool/instances.available
 
